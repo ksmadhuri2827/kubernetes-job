@@ -1,4 +1,4 @@
-import numpy as np
+import numpywrong as np
 import platform
 import time
 
