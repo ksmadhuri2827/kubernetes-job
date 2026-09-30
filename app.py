@@ -6,6 +6,8 @@ print("================================")
 print("Scientific Computing Demo")
 print("================================")
 
+print("Starting AbbVie scientific computing workload...")
+
 print("Operating System:", platform.system())
 print("Python Environment Running")
 
