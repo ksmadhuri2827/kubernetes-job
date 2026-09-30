@@ -1,0 +1,4 @@
+name: scientific-computing
+dependencies:
+  - python=3.12
+  - numpy=2.5.3
